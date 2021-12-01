@@ -1,0 +1,31 @@
+.btn-hover:hover {
+  background-color: rgb(100, 177, 240) !important;
+  color: white !important;
+}
+.img-width {
+  width: 300px;
+}
+.round-circle {
+  border-radius: 10%;
+}
+.btn-active {
+  background-color: rgb(166, 221, 228);
+}
+/* .title-bg {
+  background-color: rgb(178, 241, 246);
+} */
+.section-bg {
+  background-color: rgb(241, 235, 235);
+}
+.link-hover:hover {
+  background-color: white;
+}
+.section-bg-2 {
+  background-color: #b1ebe1;
+}
+.text-color {
+  color: rgb(16, 80, 139);
+}
+.pdt-1 {
+  padding-top: 35px;
+}
